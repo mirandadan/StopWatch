@@ -1,2 +1,2 @@
-# Editor-HTMl
- Editor básica de texto HTML
+# StopWatch
+ Trata-se de um cronometro feito em .NET para o curso balta.io
